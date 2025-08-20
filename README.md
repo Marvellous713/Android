@@ -1,0 +1,1 @@
+The app-debug.apk file attached to this repository is an body mass index (BMI) calculator that takes height and weight as inputs. This interactive app offers users seamless interaction in determining their BMI.
